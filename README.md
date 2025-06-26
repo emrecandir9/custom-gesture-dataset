@@ -4,11 +4,29 @@ This repository contains a dataset of 15 distinct hand and body gestures designe
 
 <img src="assets/hand_gif.gif" alt="Description" width="300"/>    <img src="assets/body_gif.gif" alt="Description" width="300"/>
 
+- [About the Dataset](https://github.com/emrecandir9/custom-gesture-dataset?tab=readme-ov-file#about-the-dataset)
+   - [Key Features](https://github.com/emrecandir9/custom-gesture-dataset?tab=readme-ov-file#key-features)
+   - [Dataset Statistics](https://github.com/emrecandir9/custom-gesture-dataset?tab=readme-ov-file#dataset-statistics)
+   - [Directory Structure](https://github.com/emrecandir9/custom-gesture-dataset?tab=readme-ov-file#directory-structure)
+   - [Gesture Classes](https://github.com/emrecandir9/custom-gesture-dataset?tab=readme-ov-file#gesture-classes)
+- [Getting Started](https://github.com/emrecandir9/custom-gesture-dataset?tab=readme-ov-file#getting-started)
+  - [1. Clone the Repository](https://github.com/emrecandir9/custom-gesture-dataset?tab=readme-ov-file#1-clone-the-repository)
+  - [2. Set Up a Virtual Environment](https://github.com/emrecandir9/custom-gesture-dataset?tab=readme-ov-file#2-set-up-a-virtual-environment)
+  - [3. Install Dependencies](https://github.com/emrecandir9/custom-gesture-dataset?tab=readme-ov-file#3-install-dependencies)
+- [How to Use the Tools](https://github.com/emrecandir9/custom-gesture-dataset?tab=readme-ov-file#how-to-use-the-tools)
+   - [To Run:](https://github.com/emrecandir9/custom-gesture-dataset?tab=readme-ov-file#to-run)
+   - [To Run:](https://github.com/emrecandir9/custom-gesture-dataset?tab=readme-ov-file#to-run-1)
+ - [How to Contribute](https://github.com/emrecandir9/custom-gesture-dataset?tab=readme-ov-file#how-to-contribute)
+ - [License](https://github.com/emrecandir9/custom-gesture-dataset?tab=readme-ov-file#license)
+ 
+
+
+
 ## About the Dataset
 
 The goal of this project is to provide a clean, well-organized dataset for training and evaluating machine learning models on gesture recognition. The data was collected in indoor environments and features a single person performing each gesture.
 
-### Key Features:
+### Key Features
 
 * **15 Gesture Classes:** A comprehensive set of commands suitable for navigation and action controls.
 * **Dual Format:** Includes both raw video files (`.avi`) and high-quality extracted frames (`.jpg`).
